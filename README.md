@@ -36,19 +36,20 @@ O conjunto de dados utilizado neste projeto foi fornecido por Yaroslav Isaienkov
 
 
 ### 2. Relação entre Vendas de Café e Preço
-![Relação entre Vendas de Café e Preço](https://github.com/user-attachments/assets/417c367c-bbce-4f4f-9f67-ecf82b0893b9)
+![Relacao entre vendas de cafe e preco](https://github.com/user-attachments/assets/41f16b9a-f99d-4b9a-b3b2-075fd6097849)
 
 
 ### 3. Distribuição das Vendas por Dia da Semana
-![Distribuição das Vendas por Dia da Semana](https://github.com/user-attachments/assets/c81a3df4-c53e-4b29-9faf-d11753672f3f)
+![Distribuicao de vendas por dia da semana](https://github.com/user-attachments/assets/c0b27e82-a07e-4d56-977e-2015c8579f78)
 
 
 ### 4. Distribuição das Vendas por Mês
-![Distribuição das Vendas por Mês](https://github.com/user-attachments/assets/96fecd5d-112f-40ea-811c-25209e8923f9)
+![Distribuicao das vendas por mes](https://github.com/user-attachments/assets/dd2e41ec-d9a3-4f9a-99e7-477a8258432c)
 
 
 ### 5. Distribuição das Vendas por Intervalo de 15 Minutos
-![Distribuição das Vendas por Intervalos de 15 Minutos](https://github.com/user-attachments/assets/4de94a3f-6edd-469a-b826-c745d9c201d2)
+![Distribuicao das vendas por intervalo de 15 minutos](https://github.com/user-attachments/assets/ecb42377-dbfa-47ae-a0a5-0801447adf83)
+
 
 ### 6. Decomposição da Série Temporal das Vendas
 ![Decomposição da Série Temporal das Vendas](https://github.com/user-attachments/assets/70486403-e9ff-4178-afc0-cc23bd9b032d)
