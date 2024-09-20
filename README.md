@@ -25,44 +25,31 @@ O conjunto de dados utilizado neste projeto foi fornecido por Yaroslav Isaienkov
   - seaborn
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100"/>
 
-  - statsmodels.tsa.seasonal / statsmodels.tsa.arima.model
-  - <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="Statsmodels Logo" width="100"/>
-</p>
+  - numpy.array / numpy.linalg
+  - <img src="https://numpy.org/images/logo.svg" alt="NumPy Logo" width="100"/>
+
   
 ## Análise e Visualizações
 
-### 1. Distribuição das Vendas ao Longo do Tempo
-![Vendas ao Longo do Tempo](https://github.com/user-attachments/assets/40c7b008-052c-4c26-acee-adee6ee80c8e)
+### 1. Análise por tipo de café
+![Análise por tipo de café](https://github.com/user-attachments/assets/772163d2-7d07-4f69-8638-5e0a748a2fe7)
 
 
-### 2. Relação entre Vendas de Café e Preço
-![Relacao entre vendas de cafe e preco](https://github.com/user-attachments/assets/41f16b9a-f99d-4b9a-b3b2-075fd6097849)
+
+### 2. Análise sobre o comportamento das vendas ao longo da semana
+![Análise sobre o comportamento das vendas ao longo da semana](https://github.com/user-attachments/assets/21853c15-94bb-4482-99e8-9d1503a7f7f1)
 
 
-### 3. Distribuição das Vendas por Dia da Semana
-![Distribuicao de vendas por dia da semana](https://github.com/user-attachments/assets/c0b27e82-a07e-4d56-977e-2015c8579f78)
 
-
-### 4. Distribuição das Vendas por Mês
-![Distribuicao das vendas por mes](https://github.com/user-attachments/assets/dd2e41ec-d9a3-4f9a-99e7-477a8258432c)
-
-
-### 5. Distribuição das Vendas por Intervalo de 15 Minutos
-![Distribuicao das vendas por intervalo de 15 minutos](https://github.com/user-attachments/assets/ecb42377-dbfa-47ae-a0a5-0801447adf83)
-
-
-### 6. Decomposição da Série Temporal das Vendas
-![Decomposição da Série Temporal das Vendas](https://github.com/user-attachments/assets/70486403-e9ff-4178-afc0-cc23bd9b032d)
+### 3. Vendas por Hora
+![Vendas por Hora](https://github.com/user-attachments/assets/ed3e45de-3176-4003-9528-838eea958b3c)
 
 - **Série Original**: Representa os dados brutos de vendas ao longo do tempo.
 - **Tendência**: Indica a direção geral dos dados ao longo do tempo, revelando se há um aumento ou diminuição nas vendas.
 - **Sazonalidade**: Mostra padrões recorrentes ou ciclos nos dados que ocorrem em intervalos regulares, como flutuações sazonais.
 - **Resíduos**: São os dados restantes após a remoção da tendência e da sazonalidade, representando variações aleatórias ou ruído nos dados.
 
-  ### 7. Previsão de Vendas para os Próximos 30 Dias
-  ![Previsão de Vendas para os Próximos 30 Dias](https://github.com/user-attachments/assets/dd4c057b-2776-40ba-9b5b-b1e39df2a1e5)
-  
-
+ 
   
 
 
