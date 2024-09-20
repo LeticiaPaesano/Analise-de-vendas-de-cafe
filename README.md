@@ -45,6 +45,7 @@ A demanda por café acompanha a rotina dos clientes. Durante a semana, a correri
 ### 3. Padrões de Consumo de Café ao Longo da Semana
 
 O gráfico a seguir revela uma visão detalhada das vendas de diferentes tipos de café ao longo dos dias da semana. As bebidas mais populares, como o Latte e o Americano with Milk, mantêm altos níveis de consumo consistentes, especialmente em dias úteis. Há um aumento notável nas vendas de Latte nas quartas-feiras e de Americano with Milk nas sextas-feiras, sugerindo mudanças no comportamento dos consumidores à medida que a semana avança.
+
 ![Vendas de Café por Tipo e Dia da Semana](https://github.com/user-attachments/assets/23595439-2732-4427-ab24-07c6a53f8bb5)
 
 
